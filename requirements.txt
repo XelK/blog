@@ -13,7 +13,6 @@ docutils==0.17.1
 executing==0.8.2
 fett==0.3.2
 Flask==2.0.3
--e git+ssh://git@github.com/XelK/blog.git@d70e3d03b30487d443bd0906eb4ce8493e54f7fb#egg=flaskr
 idna==3.3
 iniconfig==1.1.1
 ipdb==0.13.9
